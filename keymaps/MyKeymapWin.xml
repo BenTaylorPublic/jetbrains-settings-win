@@ -70,6 +70,9 @@
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -84,4 +87,5 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
