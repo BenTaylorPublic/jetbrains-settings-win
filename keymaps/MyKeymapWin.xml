@@ -2,6 +2,9 @@
   <action id="AddToFavoritesPopup" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="DecreaseColumnWidth" />
@@ -39,6 +42,7 @@
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorSelectWord" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
@@ -83,6 +87,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="SmartSelect" />
   <action id="Uml.ShowDiff" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
