@@ -80,8 +80,12 @@
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="OpenInRightSplit" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="QuickEvaluateExpression">
