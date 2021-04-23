@@ -72,7 +72,11 @@
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoSuperMethod" />
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowHeight" />
   <action id="IncrementWindowWidth" />
